@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# Add for ignore
+notes.md
+/media
+
 # C extensions
 *.so
 
